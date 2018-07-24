@@ -2,8 +2,14 @@
 Android6.0隐私权限请求封装
 权限请求的相关代码在BaseActivity中，可以将BaseActivity直接复制进你的项目，
 如果你已经设置了BaseActivity类，也可以只复制进去相关的代码
-所有的关键代码如下，使用简单
-/**
+所有的关键代码如下，使用简单\n
+
+
+
+
+
+
+    /**
      * 请求运行时权限
      * @param permissions 需要请求的权限
      * @param requestCode 请求码
